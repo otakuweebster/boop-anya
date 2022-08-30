@@ -1,3 +1,7 @@
+/**
+ * This JavaScript is mostly made in whole by JQuery to help the booping functionality for this website.
+ * This is quite integral, ngl tho tbh.
+ */
 $(function () {
 
     const theBoopZone = $("#mainBoop");
